@@ -33,7 +33,7 @@
     "imagemin-webp": "^6.0.0",
     "jsdom": "^16.2.2",
     "markdown-it": "^11.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "resize-img": "^2.0.0",
     "shiki": "^0.1.7",
     "workbox-build": "4.3.1"

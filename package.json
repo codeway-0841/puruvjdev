@@ -31,7 +31,7 @@
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.0",
     "imagemin-webp": "^6.0.0",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "markdown-it": "^11.0.0",
     "node-fetch": "^2.6.1",
     "resize-img": "^2.0.0",
